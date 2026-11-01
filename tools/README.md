@@ -15,7 +15,7 @@
 | Guardrails | NeMo Guardrails, Guardrails AI, LlamaGuard |
 | Detection | Rebuff, Lakera Guard, PromptShield |
 | Monitoring | LangSmith, Helicone, Lunary, Opik |
-| Agent Security | AgentDojo, Invariant Analyzer |
+| Agent Security | AgentDojo, HOL Guard, Invariant Analyzer |
 | MCP Security | mcp-scan, Invariant Analyzer, MCP Inspector |
 | RAG Security | (See RAG section) |
 
@@ -92,6 +92,7 @@ garak --list-probes
 | Tool | Type | Description | Link |
 |---|---|---|---|
 | **AgentDojo** | Open Source | Agent security evaluation - tests agents against injection and task hijacking | [GitHub](https://github.com/ethz-spylab/agentdojo) |
+| **HOL Guard** | Open Source | Local-first security reviews for supported agent commands, package installs, skills, and MCP tool calls; policy-based blocking and approval | [GitHub](https://github.com/hashgraph-online/hol-guard) |
 | **Invariant Analyzer** | Open Source | Dynamic analysis of MCP and agent execution traces for security violations | [GitHub](https://github.com/invariantlabs-ai/invariant) |
 | **AgentBench** | Open Source | Comprehensive agent capability and safety benchmark | [GitHub](https://github.com/THUDM/AgentBench) |
 
