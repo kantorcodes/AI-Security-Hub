@@ -91,6 +91,7 @@ garak --list-probes
 
 | Tool | Type | Description | Link |
 |---|---|---|---|
+| **HOL Guard** | Open Source | Local pre-action policy checks for supported AI coding-agent tool calls, with allow, ask, or block decisions | [Website](https://hol.org/guard) / [GitHub](https://github.com/hashgraph-online/hol-guard) |
 | **AgentDojo** | Open Source | Agent security evaluation - tests agents against injection and task hijacking | [GitHub](https://github.com/ethz-spylab/agentdojo) |
 | **Invariant Analyzer** | Open Source | Dynamic analysis of MCP and agent execution traces for security violations | [GitHub](https://github.com/invariantlabs-ai/invariant) |
 | **AgentBench** | Open Source | Comprehensive agent capability and safety benchmark | [GitHub](https://github.com/THUDM/AgentBench) |
